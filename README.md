@@ -1,5 +1,8 @@
 # Sphinx-Documentation
 ### install
+- step 1
+<code> npm install -g jsdoc</code>
+- Step 2
 <code>pip install sphinx-js</code>
 
 

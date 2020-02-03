@@ -14,7 +14,7 @@
 
 
 ### File structure
-
+<ul>
 <li>JSDoc
 <ul>
 <li>custom-template</li>

@@ -26,7 +26,8 @@
 
 
 ### jdoc.json
-'''{
+'''json
+{
   "source": {
     "include": ["src"],
     "includePattern": ".js$",

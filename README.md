@@ -46,9 +46,9 @@
     "readme": "./readme/readme.md"
   }
 }
-</code>
+  </code>
 ### package.json
-<code>
+- <code>
   "scripts": {
     "doc": "jsdoc -c jsdoc.json"
   }

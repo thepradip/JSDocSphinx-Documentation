@@ -23,3 +23,28 @@
   <li>src</li>
 </ul>
 </li>
+
+
+### jdoc.json
+<code>
+{
+  "source": {
+    "include": ["src"],
+    "includePattern": ".js$",
+    "excludePattern": "(node_modules/|docs)"
+  },
+  "plugins": ["plugins/markdown"],
+  "templates": {
+    "cleverLinks": true,
+    "monospaceLinks": true
+  },
+  "opts": {
+    "recurse": true,
+    "destination": "./docs/",
+    "template": "./custom-template",
+    "tutorials": "./tutorials",
+    "readme": "./readme/readme.md"
+  }
+}
+  </code>
+

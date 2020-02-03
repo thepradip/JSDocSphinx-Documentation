@@ -49,8 +49,16 @@
 ~~~~
 ### package.json
 ~~~~
-"scripts": {
+{
+  "name": "jsdoc_example",
+
+  "main": "index.js",
+  "scripts": {
     "doc": "jsdoc -c jsdoc.json"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
   }
+}
 ~~~~
   <code>npm run doc</code>

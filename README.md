@@ -11,3 +11,14 @@
 - [sphinx Officlial Documentation](https://pypi.org/project/sphinx-js/)
 - [Sphinx github](https://github.com/mozilla/sphinx-js)
 - [Parameter with Properties](https://jsdoc.app/tags-param.html#parameters-with-properties)
+
+
+### File structure
+<ul>JSDoc
+<li>
+<ul>
+<li>custom-template</li>
+<li>jsdoc.json</li>
+<li>package.json</li>
+  <li>src</li>
+</ul>

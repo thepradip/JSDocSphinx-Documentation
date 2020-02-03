@@ -14,11 +14,12 @@
 
 
 ### File structure
-<ul>JSDoc
-<li>
+
+<li>JSDoc
 <ul>
 <li>custom-template</li>
 <li>jsdoc.json</li>
 <li>package.json</li>
   <li>src</li>
 </ul>
+</li>

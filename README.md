@@ -48,8 +48,9 @@
 }
 ~~~~
 ### package.json
-<code>
-  "scripts": {
+~~~~
+"scripts": {
     "doc": "jsdoc -c jsdoc.json"
   }
-  </code>
+~~~~
+  <code>npm run doc</code>

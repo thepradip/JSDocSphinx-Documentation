@@ -26,8 +26,7 @@
 
 
 ### jdoc.json
-<code>
-{
+'''{
   "source": {
     "include": ["src"],
     "includePattern": ".js$",
@@ -46,5 +45,4 @@
     "readme": "./readme/readme.md"
   }
 }
-  </code>
-
+'''

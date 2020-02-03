@@ -47,3 +47,9 @@
   }
 }
 '''
+### package.json
+<code>
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  }
+  </code>

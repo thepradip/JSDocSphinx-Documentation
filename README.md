@@ -26,6 +26,7 @@
 
 
 ### jdoc.json
+<code> npm i -D jsdoc</code>
 ~~~~
 {
   "source": {

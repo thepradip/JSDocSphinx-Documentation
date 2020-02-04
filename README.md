@@ -61,5 +61,7 @@
     "jsdoc": "^3.6.3"
   }
 }
+
 ~~~~
   <code>npm run doc</code>
+  - [Video](https://www.youtube.com/watch?v=YK-GurROGIg)
